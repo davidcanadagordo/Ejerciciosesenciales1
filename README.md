@@ -6,5 +6,5 @@ Ejercicio 5:     Ejecutamos Ejercicio5.java
 
 Ejercicio 6:     Ejecutamos Ejercicio6.java
 
-Ejercicio 7:     Ejecutamos Ejercicio7.java y  Datos.java
+Ejercicio 7:     Ejecutamos Ejercicio7.java  y  Datos.java
 
